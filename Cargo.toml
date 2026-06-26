@@ -1,0 +1,12 @@
+[package]
+name = "konst_join"
+version = "0.1.0"
+edition = "2024"
+categories = ["no-std"]
+description = "This crate provides macros that make literal concatenation more convenient."
+exclude = ["Justfile"]
+keywords = ["const", "const_fn", "declarative-macro", "macro", "literal"]
+license = "MIT"
+repository = "https://github.com/okkmnone/konst_join"
+
+[dependencies]
